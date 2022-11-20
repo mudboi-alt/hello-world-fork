@@ -1,7 +1,7 @@
 This is a test file
 
-Example Line 1
+Example Line 1 - Modified in Main
 
-Example Line 2
+Example Line 2 - Modified in Main
 
 Example Line 3
