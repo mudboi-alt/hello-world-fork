@@ -2,4 +2,7 @@ This is a test file
 
 Example Line 1
 
-Example Line 2
+Example Line 2 - Modifying this line in b2
+
+
+Example Line 3 - added in branch b2
