@@ -1,9 +1,7 @@
 This is a test file
 
-Example Line 1 - Modified in Main - Modified in Main again
+Example Line 1
 
-Example Line 2 - Resolved Conflict
+Example Line 2
 
-Example Line 3 - Modified in b1
-
-Added Line 4 in b1
+Example Line 3
